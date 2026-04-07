@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mini Meme Creator</string>
+
+    <!--Splash-->
+    <string name="mini">Mini Meme Creator</string>
+    <!-- Onboarding Screen   -->
+    <string name="dscription">Create and share memes in seconds!
+                 Upload Your Own Photos</string>
+    <string name="getstarted">Get Started</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="#0A0A0F">
+
+    <!-- Big Emoji / Icon area -->
+    <TextView
+        android:id="@+id/txtEmoji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="90sp"
+        android:gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#FFD700"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:letterSpacing="0.05"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Divider line -->
+    <View
+        android:layout_width="60dp"
+        android:layout_height="3dp"
+        android:background="#FFD700"
+        android:layout_marginBottom="20dp" />
+
+    <!-- Description -->
+    <TextView
+        android:id="@+id/txtDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#AAAACC"
+        android:textSize="16sp"
+        android:lineSpacingMultiplier="1.5"
+        android:fontFamily="sans-serif" />
+
+</LinearLayout>
