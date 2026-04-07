@@ -1,109 +1,69 @@
-Mini Meme Creator 🎭
+ # Mini Meme Creator 🎭
 
-Mini Meme Creator is a simple and user-friendly Android app made for creating memes quickly. The app is designed with a clean UI so users can easily select templates, add text, customize it, and save memes directly to their gallery.
+A simple, fast, and user-friendly Android app for creating memes in seconds without using complicated editing tools.
 
-Features
+---
 
-Splash Screen
+## Features
 
-Attractive splash screen shown when the app starts.
+- ✨ Splash Screen
+- 🧭 Onboarding Screens
+- 🏠 Dashboard
+- 🖼️ Default Meme Templates
+- 📁 Upload Custom Images
+- ✏️ Add and Customize Text
+- 💾 Save Memes to Gallery
+- ⚙️ Light & Dark Mode
+- 🔤 Text Size Settings
 
-Gives the app a modern first impression.
+---
 
-Onboarding Screens
+## Overview
 
-Intro screens for first-time users.
+Mini Meme Creator is built for users who want a fast and simple meme-making experience. The app is lightweight, easy to use, and helps users create memes quickly.
 
-Explains the main features of the app.
+The app includes a modern splash screen, onboarding screens, a clean dashboard, built-in meme templates, and customization options.
 
-Dashboard
+---
 
-Main home screen with easy navigation.
+## App Flow
 
-Users can quickly access meme templates, uploads, downloads, and settings.
+1. Splash Screen
+2. Onboarding Screens
+3. Dashboard
+4. Select Template or Upload Image
+5. Add and Customize Text
+6. Save Meme to Gallery
+7. Manage Settings
 
-Default Meme Templates
+---
 
-Built-in meme templates available by default.
+## Screens Included
 
-Users can choose any template and start editing instantly.
+- Splash Screen
+- Onboarding Screens
+- Dashboard
+- Meme Editor
+- Settings Screen
 
-Saves time because users do not need to upload an image every time.
+---
 
-Upload Custom Images
+## Tech Stack
 
-Users can upload their own images from gallery.
+- Android Studio
+- Java
+- XML
+- ImageView
+- Material Design
 
-Uploaded image can be used as a custom meme background.
+## Future Improvements
 
-Text Customization
+- More Meme Templates
+- Stickers and Emojis
+- Custom Fonts
+- Social Media Sharing
+- Meme Categories
 
-Add text to memes easily.
+## Developer
 
-Change text size.
-
-Make text bigger or smaller.
-
-Customize text placement.
-
-Download and Save
-
-Finished memes can be downloaded.
-
-Saved directly into the device gallery.
-
-Users can easily share saved memes with friends.
-
-Settings
-
-Light mode and dark mode support.
-
-Change text size preferences.
-
-
-Tech Stack
-
-Android Studio
-
-Java
-
-XML
-
-RecyclerView
-
-ImageView
-
-App Flow
-
-Splash Screen
-
-Onboarding Screen
-
-Dashboard
-
-Select Template or Upload Image
-
-Add and Customize Text
-
-Save Meme to Gallery
-
-Manage Settings
-
-Why Mini Meme Creator?
-
-Mini Meme Creator is built for users who want a fast and simple meme-making experience without using complicated editing tools. It is lightweight, easy to use, and perfect for creating memes in just a few seconds.
-
-Future Improvements
-
-Add more meme templates.
-
-Add stickers and emojis.
-
-Add custom fonts.
-
-Add social media sharing option.
-
-Developer
-
-Made with ❤️ using Android Studio and Java.
-
+Made with ❤️ using Android Studio, Java, and XML.
